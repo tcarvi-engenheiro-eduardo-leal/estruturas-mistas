@@ -51,6 +51,3 @@ sidebar_position: 1
 - Dimensionamento de membros tracionados
 - Dimensionamento de membros comprimidos
 - Dimensionamento de membros flexionados
-
-
-
