@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# Conceitos Básicos sobre Material Misto
+# Conceitos Básicos sobre Estruturas Mistas
 
 - **Material Misto de aço e de concreto**:
     - Usado, por exemplo, para pilar, viga e laje.

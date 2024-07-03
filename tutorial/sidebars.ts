@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
-    'intro',
+    'estruturas-mistas/conceitos-basicos',
     'hello',
     {
       type: 'category',
