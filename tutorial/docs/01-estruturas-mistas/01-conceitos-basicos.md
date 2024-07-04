@@ -1,5 +1,13 @@
 # Conceitos Básicos sobre Estruturas Mistas
 
+## Cálculos
+- Mineração de dados
+    - Métodos estatísticos
+    - Aprendizagem de máquina
+    - Neuro computação
+- Análise e solução de problemas em dados estruturados
+- Análise e solução de problemas em dados não estruturados
+
 - **Material Misto de aço e de concreto**:
     - Usado, por exemplo, para pilar, viga e laje.
     - Nas vigas, o concreto deve trabalhar predominantemente resistindo à pressão/compressão.
@@ -28,22 +36,3 @@
     - Sua parte metálica se localiza na parte de baixo.
     - A parte metálica da laje trabalha, embaixo, como armadura positiva.
     
-    
-    
-# Propriedades Físicas e Mecânicas de aços estruturais e de madeiras
-## Propriedades Mecânicas do Aço
-- 
-## Propriedades Mecânicas da Madeira
-- 
-## Diagrama Tensão-Deformação
--
-## Perfis Estruturais
--
-## Critérios de Plastificação do Aço
--
-## Critérios de Ruptura do Aço
-- 
-- Projetos nos estados limites
-- Dimensionamento de membros tracionados
-- Dimensionamento de membros comprimidos
-- Dimensionamento de membros flexionados
