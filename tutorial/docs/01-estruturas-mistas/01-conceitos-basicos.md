@@ -38,3 +38,11 @@
 - **Conectores de Cisalhamento**:
     - Conectores usados entre a Laje e as Vigas.
     - Evitam o cisalhamento.
+
+- **Estrutura Hibrida**
+    - Estruturas que não são construída apenas com elementos de concreto armado ou apenas com elmentos mistos.
+    - As estruturas hibridas devem apresentar pelo menos estes dois tipos de elementos, trabalhando conjuntamente.
+    - Por exemplo: 
+        - Viga feita apenas com metal e pilar feito com concreto armado.
+        - Viga feita com material misto e pilar feito com concreto armado.
+

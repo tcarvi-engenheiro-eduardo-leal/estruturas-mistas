@@ -9,3 +9,4 @@
 ## Critérios de Plastificação do Aço
 
 ## Critérios de Ruptura do Aço
+
