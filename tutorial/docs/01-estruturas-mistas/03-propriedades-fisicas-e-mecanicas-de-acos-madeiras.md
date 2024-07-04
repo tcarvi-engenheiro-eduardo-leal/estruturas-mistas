@@ -2,4 +2,4 @@
 
 ## Propriedades Mecânicas da Madeira
 
-## Diagrama Tensão-Deformação
+## Diagrama Tensão-Deformação da Madeira

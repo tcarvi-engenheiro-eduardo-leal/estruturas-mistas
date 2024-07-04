@@ -2,10 +2,10 @@
 
 ## Propriedades Mecânicas do Aço
 
-## Diagrama Tensão-Deformação
+## Diagrama Tensão-Deformação do Aço
 
-## Perfis Estruturais
+## Perfis Estruturais do Aço
 
 ## Critérios de Plastificação do Aço
--
+
 ## Critérios de Ruptura do Aço

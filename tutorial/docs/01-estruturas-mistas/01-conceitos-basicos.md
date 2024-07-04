@@ -8,31 +8,33 @@
 - Análise e solução de problemas em dados estruturados
 - Análise e solução de problemas em dados não estruturados
 
-- **Material Misto de aço e de concreto**:
-    - Usado, por exemplo, para pilar, viga e laje.
-    - Nas vigas, o concreto deve trabalhar predominantemente resistindo à pressão/compressão.
-        - O concreto possui resistência limitada à tração. Tal função deve ser executada pelo aço.
-    - Nas vigas, o aço trabalha resistindo à tração.
+## Elemento Estrutural Misto
+- Por exemplo: pilar misto, viga mista e laje mista, formados com os componentes concreto e aço.
+- Nos elementos mistos:
+    - O concreto deve trabalhar predominantemente resistindo à pressão/compressão.
+    - Já o aço deve trabalhar resistindo à tração.
+- Esta diferença só não é tão evidente no Pilar.
 
-- **Pilar de Material Misto**
-    - Uso de perfil na forma de H.
-    - Usa-se armadura formada por barras redondas nervuradas.
-    - Estribos são usados na posição transversal para ligar as barras logitudinais. 
+### Pilar Misto
+- Normalmente, o aço do pilar misto se apresenta com perfil H.
+- Usa-se também armadura formada por barras redondas nervuradas.
+- Estribos são usados na posição transversal para ligar as barras logitudinais. 
 
+### Viga Mista
+- Já o aço da viga mista se apresenta com perfil I e sustenta uma laje de concreto sobreposta.
+- A união entre a viga mista e a laje mista se dá por conectores de cisalhamento.
+
+### Laje mista:
+- Construída com aço conformado a frio.
+- Sua estrutura metálica possui sessão trapezoidal.
+- Sua parte metálica se localiza na parte de baixo.
+- Na laje mista, a parte metálica trabalha embaixo, como armadura positiva.
+
+## Conceitos
 - **Estribo**:
     - Material metálico em forma de filamento dobrado como retângulo e
         - que suspenta vergalhões em pilares ou em vigas. 
 
-- **Viga de Material Misto**
-    - Uso de perfil na forma de I.
-
 - **Conectores de Cisalhamento**:
     - Conectores usados entre a Laje e as Vigas.
     - Evitam o cisalhamento.
-    
-- **Laje mista**:
-    - Construída com aço conformado a frio.
-    - Sua estrutura metálica possui sessão trapezoidal.
-    - Sua parte metálica se localiza na parte de baixo.
-    - A parte metálica da laje trabalha, embaixo, como armadura positiva.
-    
